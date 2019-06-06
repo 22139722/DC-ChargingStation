@@ -20,6 +20,7 @@ Set up environnement
 7.  Start HTTP SERVER
 
 8.  Download MysSQL installer and run it : https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.15.0.msi
+
     Make sure that MySQL Workbench is in installed feature
     For the credentials at the end of the setup, choose :
     Username: root
